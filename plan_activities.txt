@@ -1,2 +1,3 @@
 This will be a list of activities
 - I am here planning the first activity, want no conflicts
+- which animal do you love?
